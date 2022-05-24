@@ -1,9 +1,9 @@
 {
-    "name": "AzamOpMusic",
-    "logo": "https://telegra.ph/file/fd880593afcb71a2c02cd.jpg",
+    "name": "AjeetxMusic",
+    "logo": "https://te.legra.ph/file/4b2ec4894a08b0dde7ae3.jpg",
     "description": "An Advanced Premium Music Bot For Telegram Groups VC.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/Sofiyajaan/SuperMusic",
+    "repository": "https://github.com/Ajsites2324/SuperMusic",
     "stack": "container",
     "env": {
         "API_ID": {
