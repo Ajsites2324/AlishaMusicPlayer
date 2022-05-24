@@ -1,7 +1,7 @@
 ### Best Smart Voice Chat Music Bot For Telegram Groups ...
 
 
-<p align="center"><a href="https://t.me/Itz_Venom_xD"><img src="https://te.legra.ph/file/5f9359d8bc341db3ed027.jpg"></a></p>
+<p align="center"><a href="https://t.me/Itz_Venom_xD"><img src="https://te.legra.ph/file/4b2ec4894a08b0dde7ae3.jpg"></a></p>
 
 
 
@@ -13,7 +13,7 @@
 
 ### Deploy To Heroku
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sofiyajaan/AlishaMusicPlayer)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajsites2324/AlishaMusicPlayer)
 
 
 
