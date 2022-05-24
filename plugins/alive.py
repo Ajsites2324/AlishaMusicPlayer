@@ -33,25 +33,25 @@ async def _human_time_duration(seconds):
 @Client.on_message(command("start") & filters.private & ~filters.edited)
 async def start_(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/b921645cc124c9d7acf7c.jpg",
+        photo=f"https://te.legra.ph/file/4b2ec4894a08b0dde7ae3.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
-💥 ʜᴇʟʟᴏ, ɪ ᴀᴍ ʟᴜᴄᴋʏ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
+💥 ʜᴇʟʟᴏ, ɪ ᴀᴍ ᴀᴊᴇᴇᴛ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
 ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴏʀ : [ᴀᴢᴀᴍ💜ʙᴏʏ](https://t.me/azam_sharif_gorup)
-┣★ ᴜᴘᴅᴀᴛᴇs : [ᴍᴏᴠɪᴇ ᴄʜɪɴɴᴇʟ](https://t.me/cinema_a2z)
-┣★ sᴜᴘᴘᴏʀᴛ : [ᴀᴢᴀᴍ Cʜᴀᴛ](https://t.me/azam_sharif_gorup)
-┣★ ᴏᴡɴᴇʀ › : [Azam king ](https://t.me/azam_Sharif_OWNER)
+┣★ ᴄʀᴇᴀᴛᴏʀ : [ᴀᴊᴇᴇᴛ](https://t.me/papa_bol_sakteho)
+┣★ ᴜᴘᴅᴀᴛᴇs : [ᴀᴊ ꜱᴇʀᴠᴇʀ](https://t.me/about_ajeet)
+┣★ sᴜᴘᴘᴏʀᴛ : [ᴀᴊ ɴᴇᴛᴡᴏʀᴋ](https://t.me/tpn_chatroom)
+┣★ ᴏᴡɴᴇʀ › : [ᴘᴀʀᴋ ʏᴜᴋᴜ](https://t.me/parkjiminparkyuku)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
-ᴅᴍ ᴛᴏ ᴍʏ [ʟᴇɢᴇɴᴅ ᴏᴡɴᴇʀ](https://t.me/Azam_sharif_OWNER) ...
+ᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/papa_bol_sakteho) ...
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "➕ ❰ ᴊᴏɪɴ ʜᴇʀᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇs Azam❱ ➕", url=f"https://t.me/azam_sharif_gorup")
+                        "➕ ❰ ᴊᴏɪɴ ʜᴇʀᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇs ʙᴀʙʏ ❱ ➕", url=f"https://t.me/azam_sharif_gorup")
                 ]
                 
            ]
@@ -59,32 +59,32 @@ async def start_(client: Client, message: Message):
     )
     
     
-@Client.on_message(commandpro(["/start", "/alive", "Candy"]) & filters.group & ~filters.edited)
+@Client.on_message(commandpro(["/start", "/alive", "Ajeet", "@papa_bol_sakteho", ]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/b921645cc124c9d7acf7c.jpg",
+        photo=f"https://te.legra.ph/file/4b2ec4894a08b0dde7ae3.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "💥 ᴊᴏɪɴ ʜᴇʀᴇ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ 💞", url=f"https://t.me/azam_sharif_gorup")
+                        "💥 ᴊᴏɪɴ ʜᴇʀᴇ ʙᴀʙʏ 💞", url=f"https://t.me/about_ajeet")
                 ]
             ]
         ),
     )
 
 
-@Client.on_message(commandpro(["repo", "#repo", "@repo", "/repo", "source"]) & filters.group & ~filters.edited)
+@Client.on_message(commandpro(["repo", "#repo", "ajeetpapa", "/repo", "source"]) & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/b921645cc124c9d7acf7c.jpg",
+        photo=f"https://te.legra.ph/file/4b2ec4894a08b0dde7ae3.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "💥 ᴄʟɪᴄᴋ ᴍᴇ ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ 💞", url=f"https://t.me/azam_sharif_gorup")
+                        "💥 ᴄʟɪᴄᴋ ᴍᴇ ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ 💞", url=f"https://t.me/tpn_chatroom")
                 ]
             ]
         ),
